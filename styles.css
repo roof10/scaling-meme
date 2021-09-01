@@ -17,13 +17,13 @@ background-color: grey;
 }
 
 .container {
-width: 800px;
-max-width: 30%;
+max-width: 50%;
 background-color: white;
 padding: 10px;
 border-radius: 5px;
 box-shadow: 0 0 10px 2px;
-
+display: inline-table;
+margin: 0 auto;
 }
 
 .btn-grid {
